@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('iothub-java-device-client-1.0.16.jar'))

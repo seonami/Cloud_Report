@@ -1,0 +1,1 @@
+include ':app', ':iothub-java-device-client-1.0.16'
